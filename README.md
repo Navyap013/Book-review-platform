@@ -218,19 +218,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Frontend Deployment
 1. Build the application: `npm run build`
 2. Deploy to platforms like Vercel, Netlify, or GitHub Pages
-
-## Future Enhancements
-
-- [ ] Real-time notifications
-- [ ] Social features (following users, book clubs)
-- [ ] Advanced search and recommendations
-- [ ] Mobile app (React Native)
-- [ ] Email notifications
-- [ ] Book cover image upload
-- [ ] Reading progress tracking
-- [ ] Export reading lists
-- [ ] Integration with external book APIs
-
-## Support
-
-For support, email support@bookreviewplatform.com or create an issue in the repository. 
