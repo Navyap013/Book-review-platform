@@ -29,30 +29,7 @@ A full-stack book review platform built with React, Node.js, Express, and MongoD
 - **User Profiles**: View user profiles, reviews, and statistics
 - **Admin Features**: Book management for administrators
 
-## Tech Stack
 
-### Frontend
-- React 18
-- TypeScript
-- Redux Toolkit
-- React Router DOM
-- React Query
-- Tailwind CSS
-- React Hook Form
-- React Hot Toast
-- Axios
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT
-- bcryptjs
-- express-validator
-- helmet
-- cors
-- morgan
 
 ## Prerequisites
 
