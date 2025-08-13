@@ -24,7 +24,6 @@ code {
     monospace;
 }
 
-/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -57,7 +56,6 @@ code {
   100% { transform: rotate(360deg); }
 }
 
-/* Star rating styles */
 .star-rating {
   display: inline-flex;
   align-items: center;
@@ -77,7 +75,6 @@ code {
   color: #fbbf24;
 }
 
-/* Book card hover effects */
 .book-card {
   transition: all 0.3s ease;
 }
@@ -87,7 +84,6 @@ code {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
-/* Button styles */
 .btn-primary {
   @apply bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
 }
@@ -100,7 +96,6 @@ code {
   @apply bg-red-600 hover:bg-red-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200;
 }
 
-/* Form styles */
 .form-input {
   @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent;
 }
@@ -113,12 +108,10 @@ code {
   @apply text-red-600 text-sm mt-1;
 }
 
-/* Card styles */
 .card {
   @apply bg-white rounded-lg shadow-sm border border-gray-200 p-6;
 }
 
-/* Badge styles */
 .badge {
   @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
 }
@@ -139,7 +132,6 @@ code {
   @apply bg-red-100 text-red-800;
 }
 
-/* Navigation styles */
 .nav-link {
   @apply text-gray-600 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200;
 }
@@ -148,12 +140,10 @@ code {
   @apply text-blue-600 bg-blue-50;
 }
 
-/* Responsive utilities */
 .container-responsive {
   @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
 }
 
-/* Animation utilities */
 .fade-in {
   animation: fadeIn 0.5s ease-in;
 }
