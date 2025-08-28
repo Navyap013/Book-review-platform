@@ -29,8 +29,6 @@ A full-stack book review platform built with React, Node.js, Express, and MongoD
 - **User Profiles**: View user profiles, reviews, and statistics
 - **Admin Features**: Book management for administrators
 
-
-
 ## Prerequisites
 
 - Node.js (v16 or higher)
@@ -180,7 +178,6 @@ book-review-platform/
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
 
 ## Deployment
 
